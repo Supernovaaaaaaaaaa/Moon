@@ -1,6 +1,6 @@
 {
   "user": "guido",
-  "action": "write",
+  "action": "append",
   "file": "remote.txt",
-  "text": "✅ Nova test command reached your agent!"
+  "text": "\ud83d\udce1 Nova pushed this command to GitHub directly!"
 }
